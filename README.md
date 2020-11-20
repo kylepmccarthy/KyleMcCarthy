@@ -1,2 +1,2 @@
-# KyleMcCarthy
+# Kyle McCarthy
 Portfolio
